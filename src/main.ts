@@ -1,4 +1,5 @@
 import './style.css'
+import './celan-code/04-homework.ts'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
